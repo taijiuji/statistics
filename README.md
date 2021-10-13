@@ -1,3 +1,3 @@
 # statistics
 
-This is m
+This is my new book with R 
